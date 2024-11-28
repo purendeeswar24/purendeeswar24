@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PurendeeswarReddy
 - 👀 I’m interested in Explore the Data and Data Science 
-- 🌱 I’m currently studying B.Tech-4-I
+- 🌱 I’m currently studying B.Tech-4-II
 - 💞️ I’m looking to collaborate on New data players (ML, Data Science)
 - 📫 Reach me on LinkedIn http://www.linkedin.com/in/purendeeswar-reddy-319798254
 -  📫 Reach me on Instagram https://www.instagram.com/peerless_
