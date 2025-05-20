@@ -2,7 +2,7 @@
 ✨ Welcome to my GitHub profile! ✨  
 
 ## 🔍 Exploring the World of Data  
-I’m deeply passionate about uncovering the stories hidden within data and transforming them into actionable insights. My journey revolves around **Data Science, Machine Learning, and Artificial Intelligence**, where I continuously strive to push boundaries and innovate.  
+I am deeply passionate about uncovering the stories hidden within data and transforming them into actionable insights. My journey revolves around **Data Science, Machine Learning, and Artificial Intelligence**, where I continuously strive to push boundaries and innovate.  
 
 ## 🎓 Currently Pursuing  
 - **B.Tech (4th Year, 2nd Semester)** – Building a strong foundation in technology and data-driven problem-solving.  
