@@ -23,4 +23,4 @@ I believe in the power of data to drive change and innovation. My goal is to gro
 ---
 
 ## Let’s Build the Future Together!  
-Feel free to explore my repositories and reach out if you’d like to collaborate or discuss ideas. Let’s create something extraordinary! 🌟  
+Feel free to explore my repositories and reach out if you’d like to collaborate or discuss ideas. Let’s create something extraordinary!  🌟  
