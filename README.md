@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Purendeeswar Reddy  
-✨ Welcome to my GitHub profile!  ✨  
+✨ Welcome to my GitHub profile! ✨  
 
 ## 🔍 Exploring the World of Data  
 I am deeply passionate about uncovering the stories hidden within data and transforming them into actionable insights. My journey revolves around **Data Science, Machine Learning, and Artificial Intelligence**, where I continuously strive to push boundaries and innovate.  
