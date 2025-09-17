@@ -5,7 +5,7 @@
 I am deeply passionate about uncovering the stories hidden within data and transforming them into actionable insights. My journey revolves around **Data Science, Machine Learning, and Artificial Intelligence**, where I continuously strive to push boundaries and innovate.  
 
 ## 🎓 Currently Pursuing  
-- **working as a AI & ML Engineer in D3V Technology **
+- **working as a AI & ML Engineer in D3V Technology**
 
 ## 🤝 Collaboration Interests  
 I’m always excited to collaborate with like-minded individuals and teams on projects that leverage **Machine Learning, AI, and Data Science** to solve real-world challenges. If you’re working on something exciting, let’s connect and create something impactful together!  
